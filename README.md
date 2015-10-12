@@ -2,7 +2,7 @@
 yii2 kartik依赖集合
 
 
-目前包含项目有 
+目前包含项目有  
 "kartik-v/yii2-widgets": "*",  
 "kartik-v/yii2-grid": "*",  
 "kartik-v/yii2-detail-view": "*",  
