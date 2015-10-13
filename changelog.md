@@ -1,4 +1,4 @@
-v1.0.0  2015-10-13 11:55  
+v1.0.2  2015-10-13 11:55  
 
 "kartik-v/yii2-krajee-base": "~1.7",  
 "kartik-v/yii2-widgets": "~3.4",  
