@@ -1,3 +1,6 @@
+v1.0.3
+"kartik-v/yii2-date-range": 升级到 "1.6.5",
+
 v1.0.2  2015-10-13 11:55  
 
 "kartik-v/yii2-krajee-base": "~1.7",  
